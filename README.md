@@ -9,7 +9,7 @@ to
 # **My First Project**
 ```
 
-Download the raw format template from the list below!
+Download the raw format template from the list below <br>**or**<br>
 Click on Raw button inside each template mardown file to get complete mardown code for templates.
 
 **Template List**
