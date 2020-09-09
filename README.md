@@ -9,7 +9,8 @@ to
 # **My First Project**
 ```
 
-Click on Raw button to get complete mardown code for templates.
+Download the raw format template from the list below!
+Click on Raw button inside each template mardown file to get complete mardown code for templates.
 
 **Template List**
 * [project-description.md](https://raw.githubusercontent.com/sicsr-lab/templates/master/project-description.md)
