@@ -9,8 +9,14 @@
 * <Technology 3>
 <!-- To add more technologies use the same format! -->
 
+
+**Number of member required:** <number>
+
+**Start Date:** <DD-MM-YYYY>
+  
+**Expected Deadline:** <DD-MM-YYYY>
+
 ### **Contributors**
 * [<name of contributor 1>](github profile link of contributor 1)
 * [<name of contributor 2>](github profile link of contributor 2)
 <!-- To add more contributors use the same format! -->
-
