@@ -10,7 +10,7 @@
 <!-- To add more technologies use the same format! -->
 
 
-**Number of member required:** <number>
+**Number of member/s required:** <number>
 
 **Start Date:** <DD-MM-YYYY>
   
